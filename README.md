@@ -6,7 +6,7 @@ my favourite character is yoshka
 (in order from most used to least used)
 * english
 * scratchblocks
-* luau (roblox)
 * gdscript
+* luau (roblox)
 * python
 * c++ (i wrote a hello world script and it didnt work)
